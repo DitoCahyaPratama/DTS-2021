@@ -1,0 +1,2 @@
+rootProject.name = "Aplikasi List View"
+include ':app'

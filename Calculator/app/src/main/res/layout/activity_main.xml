@@ -16,6 +16,7 @@
         android:ems="10"
         android:hint="Masukkan Angka"
         android:inputType="number"
+        android:focusableInTouchMode="false"
         app:layout_constraintBottom_toTopOf="@+id/tableLayout"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.503"
